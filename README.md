@@ -1,7 +1,7 @@
 # JSONandWebrtc
 This repo contaoins libraries for JSON parsing, dynamic form generation from JSON and video &amp; audio calling using WebRTC.
 
-##ANDROID
+## ANDROID
 ---
 
 * Vid & Aud calling using WebRTC:
@@ -13,7 +13,7 @@ This repo contaoins libraries for JSON parsing, dynamic form generation from JSO
 * JSONwizard:
   * https://github.com/vijayrawatsan/android-json-form-wizard/
 
-##Web
+## Web
 ---
 * Loopback
 
